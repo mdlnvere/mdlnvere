@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Anne-Sophie Vere 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlnvere&layout=compact&langs_count=8&theme=dracula)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdlnvere&theme=dracula)
 
 <!--
 **mdlnvere/mdlnvere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
