@@ -13,7 +13,7 @@ When I’m not building for a client (or myself), I’m adding new prints to my 
 - ✍️ Designing beautiful websites with Symfony, Twig & Tailwind  
 - 🎨 Running a creative illustration shop: [atelierillustre](https://atelierrecolorer.etsy.com)
 
-# Check out my latest Homey app:  
+### Check out my latest Homey app:  
 [Homey X Hitachi Aircloud Go](https://homey.app/fr-fr/app/com.vere.AirCloud/Hitachi-airCloud-Go/)  
 
 
