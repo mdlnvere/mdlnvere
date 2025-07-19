@@ -25,7 +25,7 @@ When I’m not building for a client (or myself), I’m adding new prints to my 
 
 ## 🌍 Let's connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/anne-sophie-vere)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anne-sophie-vere)
 - 🎨 [Behance](https://www.behance.net/mdlnvere)
 - 🛍️ [Etsy](https://atelierrecolorer.etsy.com)
 
