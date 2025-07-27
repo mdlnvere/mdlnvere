@@ -10,7 +10,8 @@ When I’m not building for a client (or myself), I’m adding new prints to my 
 ## What I've been up to : 
 
 - 🔧 Working on Homey apps for connected devices  
-- ✍️ Designing beautiful websites with Symfony, Twig & Tailwind  
+- ✍️ Developing a personal blog  
+- 🎨 Experimenting with Processing 
 - 🎨 Running a creative illustration shop: [atelierillustre](https://atelierrecolorer.etsy.com)
 
 ### Check out my latest Homey app:  
